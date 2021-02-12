@@ -1,0 +1,4 @@
+O executavel que se encontra nesta pasta necessita de estar junto dos devidos ficheiros "carros.txt" e "pilotos.txt" para não ser imediatamente desligado.
+Não é necessario que os ficheiros estejam bem escritos para evitar que se desligue desta forma.
+Este executavel encontra-se nesta pasta para garantir que qualquer falha que possa existir não é um erro do compilador local.
+Este projeto deverá compilar/executar normalmente em qualquer sistema windows com Code::Blocks.

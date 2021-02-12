@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1559435026 source:c:\users\p\desktop\trabalho pratico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilotos.h"
+
+1559431247 c:\users\p\desktop\trabalho pratico\pilotos.h
+
+1559433148 source:c:\users\p\desktop\trabalho pratico\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"pilotos.h"
+	"utils.h"
+
+1559432895 source:c:\users\p\desktop\trabalho pratico\corridas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pilotos.h"
+	"utils.h"
+
+1556980522 source:c:\users\p\desktop\trabalho pratico\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<limits.h>
+	"utils.h"
+
+1556980599 c:\users\p\desktop\trabalho pratico\utils.h
+
