@@ -1,7 +1,7 @@
 # Trabalho-Cadeira-de-Programacao
 Trabalho no Ambito da Cadeira de Programação.
 
-Trabalho realizado por Marco Domingues.
+Trabalho realizado por [Marco Domingues](https://github.com/Blaldas).
 
 Neste repositório pode ver-se:
 -Código fonte do projeto;
