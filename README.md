@@ -10,7 +10,3 @@ Neste repositório pode ver-se:
 
 Bugs:
 -Existe um bug causado por um ponteiro que se encontra colocado para a lista ligada anterior aquela que devia apontar (lembro-me da causa mas não especificamente onde se encontrava).
-
-
-Resultado:
-Foi dada a classificação final de 83%
